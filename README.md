@@ -3,7 +3,7 @@
 ### this is just a simple fun game tic-tac-toe, 
 ### felt good to write the awesome logic for this game using javascript.  ☺️ 
 
-## check the game here.
+## check the game [here](https://tic-tac-toe-game-one.vercel.app/).
 
 ![TIC-TAC-TOE-game](https://user-images.githubusercontent.com/46050946/153727756-0ef4f693-a429-4900-8bdb-f6d4e8479142.png)
 
